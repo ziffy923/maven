@@ -6,7 +6,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - run: |
-          echo "aaaaa" >> README.md
+          git log -1 > README.md
           git config --global user.email "actions@users.noreply.github.com"
           git config --global user.name "README-bot"
           git add -A
