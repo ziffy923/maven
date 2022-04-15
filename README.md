@@ -1,5 +1,5 @@
-commit f63818fbb585635c39ef077172fabb435c99cc8c
+commit 474df8691ec7102168d3490ef202d23c94e27fad
 Author: ziffy923 <mahaprasad923@gmail.com>
-Date:   Fri Apr 15 18:55:49 2022 +0530
+Date:   Fri Apr 15 18:59:12 2022 +0530
 
-    Added last two commits to readme
+    unlimited logs
