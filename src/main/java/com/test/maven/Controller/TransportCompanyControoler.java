@@ -29,5 +29,10 @@ public class TransportCompanyControoler {
         return transportCompanyRepository.save(transportCompany);
     }
 
+    @GetMapping
+    public String get(){
+        return "data";
+    }
+
     
 }
